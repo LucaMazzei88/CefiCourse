@@ -1,0 +1,25 @@
+package eseFacoltativo;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Lotto {
+	private static ArrayList<Integer> ruota=new ArrayList<>();
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		sc.nextInt();
+		
+	}
+	private static void estrai(){
+		ruota.clear();
+		int temp;
+		for(int i=0;i<13;){
+			temp=(int)(Math.random()*90+1);
+			if(!ruota.contains(temp)){
+				ruota.add(temp);
+				i++;
+			}
+		}
+	}
+}

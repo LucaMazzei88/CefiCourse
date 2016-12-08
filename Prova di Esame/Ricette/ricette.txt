@@ -1,0 +1,7 @@
+padellino uovo 1
+frittata olio 0.3
+padellino olio 0.2
+frittata uovo 1
+coque uovo 1
+frittata parmigiano 0.2
+coque burro 0.5

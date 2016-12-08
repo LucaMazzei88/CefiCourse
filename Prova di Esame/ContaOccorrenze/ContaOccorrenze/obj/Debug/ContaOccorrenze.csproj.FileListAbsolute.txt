@@ -1,0 +1,10 @@
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\bin\Debug\ContaOccorrenze.exe.config
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\bin\Debug\numeri.txt
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\bin\Debug\ContaOccorrenze.exe
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\bin\Debug\ContaOccorrenze.pdb
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\obj\Debug\ContaOccorrenze.csprojResolveAssemblyReference.cache
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\obj\Debug\ContaOccorrenze.Form1.resources
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\obj\Debug\ContaOccorrenze.Properties.Resources.resources
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\obj\Debug\ContaOccorrenze.csproj.GenerateResource.Cache
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\obj\Debug\ContaOccorrenze.exe
+F:\Prova di Esame\ContaOccorrenze\ContaOccorrenze\obj\Debug\ContaOccorrenze.pdb

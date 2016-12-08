@@ -1,0 +1,9 @@
+H:\Prova di Esame\Videoteca\Videoteca\bin\Debug\Videoteca.exe.config
+H:\Prova di Esame\Videoteca\Videoteca\bin\Debug\Videoteca.exe
+H:\Prova di Esame\Videoteca\Videoteca\bin\Debug\Videoteca.pdb
+H:\Prova di Esame\Videoteca\Videoteca\obj\Debug\Videoteca.csprojResolveAssemblyReference.cache
+H:\Prova di Esame\Videoteca\Videoteca\obj\Debug\Videoteca.Form1.resources
+H:\Prova di Esame\Videoteca\Videoteca\obj\Debug\Videoteca.Properties.Resources.resources
+H:\Prova di Esame\Videoteca\Videoteca\obj\Debug\Videoteca.csproj.GenerateResource.Cache
+H:\Prova di Esame\Videoteca\Videoteca\obj\Debug\Videoteca.exe
+H:\Prova di Esame\Videoteca\Videoteca\obj\Debug\Videoteca.pdb

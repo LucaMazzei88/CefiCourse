@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476692724 source:g:\prova di esame\sommatriple\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+

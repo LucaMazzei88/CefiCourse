@@ -1,0 +1,9 @@
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\bin\Debug\MenuMedie.exe.config
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\bin\Debug\MenuMedie.exe
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\bin\Debug\MenuMedie.pdb
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\obj\Debug\MenuMedie.csprojResolveAssemblyReference.cache
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\obj\Debug\MenuMedie.Form1.resources
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\obj\Debug\MenuMedie.Properties.Resources.resources
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\obj\Debug\MenuMedie.csproj.GenerateResource.Cache
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\obj\Debug\MenuMedie.exe
+C:\Users\Cefi\Desktop\MenuMedie\MenuMedie\obj\Debug\MenuMedie.pdb

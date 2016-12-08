@@ -1,0 +1,10 @@
+G:\Prova di Esame\MediaCategorie\MediaCategorie\bin\Debug\MediaCategorie.exe.config
+G:\Prova di Esame\MediaCategorie\MediaCategorie\bin\Debug\MediaCategorie.exe
+G:\Prova di Esame\MediaCategorie\MediaCategorie\bin\Debug\MediaCategorie.pdb
+G:\Prova di Esame\MediaCategorie\MediaCategorie\obj\Debug\MediaCategorie.csprojResolveAssemblyReference.cache
+G:\Prova di Esame\MediaCategorie\MediaCategorie\obj\Debug\MediaCategorie.Form1.resources
+G:\Prova di Esame\MediaCategorie\MediaCategorie\obj\Debug\MediaCategorie.Properties.Resources.resources
+G:\Prova di Esame\MediaCategorie\MediaCategorie\obj\Debug\MediaCategorie.csproj.GenerateResource.Cache
+G:\Prova di Esame\MediaCategorie\MediaCategorie\obj\Debug\MediaCategorie.exe
+G:\Prova di Esame\MediaCategorie\MediaCategorie\obj\Debug\MediaCategorie.pdb
+G:\Prova di Esame\MediaCategorie\MediaCategorie\bin\Debug\elementi.txt

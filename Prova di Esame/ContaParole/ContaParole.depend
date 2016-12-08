@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476177690 source:g:\prova di esame\contaparole\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

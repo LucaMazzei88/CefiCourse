@@ -1,0 +1,6 @@
+A001,Mario Rossi
+A002,Luca Mazzei
+A003,Diego Bianchi
+A004,Eran Costa
+A005,Yuri Quaglia
+A006,Alessandro Atzeni

@@ -1,0 +1,20 @@
+package esercizio;
+
+import java.time.LocalDate;
+
+public class Cliente {
+
+	private String nome;
+	private String cognome;
+	private String email;
+	private String telefono;
+	private LocalDate data;
+	public Cliente(String nome, String cognome, String email, String telefono, int anno, int mese, int giorno) {
+		super();
+		this.nome = nome;
+		this.cognome = cognome;
+		this.email = email;
+		this.telefono = telefono;
+		data=LocalDate.of(anno, mese, giorno);
+	}
+}

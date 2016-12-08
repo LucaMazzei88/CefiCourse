@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476260534 source:g:\prova di esame\temperature\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+

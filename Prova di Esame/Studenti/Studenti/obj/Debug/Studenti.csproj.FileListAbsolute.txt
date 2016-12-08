@@ -1,0 +1,10 @@
+G:\Prova di Esame\Studenti\Studenti\bin\Debug\Studenti.exe.config
+G:\Prova di Esame\Studenti\Studenti\bin\Debug\esami.txt
+G:\Prova di Esame\Studenti\Studenti\bin\Debug\Studenti.exe
+G:\Prova di Esame\Studenti\Studenti\bin\Debug\Studenti.pdb
+G:\Prova di Esame\Studenti\Studenti\obj\Debug\Studenti.csprojResolveAssemblyReference.cache
+G:\Prova di Esame\Studenti\Studenti\obj\Debug\Studenti.Form1.resources
+G:\Prova di Esame\Studenti\Studenti\obj\Debug\Studenti.Properties.Resources.resources
+G:\Prova di Esame\Studenti\Studenti\obj\Debug\Studenti.csproj.GenerateResource.Cache
+G:\Prova di Esame\Studenti\Studenti\obj\Debug\Studenti.exe
+G:\Prova di Esame\Studenti\Studenti\obj\Debug\Studenti.pdb

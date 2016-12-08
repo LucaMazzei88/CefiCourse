@@ -1,0 +1,9 @@
+﻿0001;ipad;1;300;informatica
+0002;iphone;2;300;informatica
+0003;galaxy;2;300;informatica
+0004;jeans;520;300;abbigliamento
+0005;camice;12;300;abbigliamento
+0006;armani;90;300;abbigliamento
+0007;rufy;100;300;cartoni
+0008;goku;159;159;cartoni
+0009;naruto;120;120;cartoni

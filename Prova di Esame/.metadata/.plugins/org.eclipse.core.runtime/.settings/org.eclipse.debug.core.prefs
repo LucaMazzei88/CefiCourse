@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n<expression enabled\="true" text\="mat.length-(i+n)"/>\r\n<expression enabled\="true" text\="mat[i].length-(j+m)"/>\r\n<expression enabled\="true" text\="i"/>\r\n<expression enabled\="true" text\="mat.length"/>\r\n<expression enabled\="true" text\="mat[i].length"/>\r\n</watchExpressions>\r\n

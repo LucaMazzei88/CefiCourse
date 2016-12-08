@@ -1,0 +1,3 @@
+Numeri inseriti: 5 8 60 
+Numeri Estratti: 75 21 63 19 32 64 82 4 60 54 78 61 8 
+Indovinati: 2Hai Vinto!!!

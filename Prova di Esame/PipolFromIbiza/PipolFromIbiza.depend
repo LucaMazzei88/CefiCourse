@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475837100 source:g:\prova di esame\pipolfromibiza\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

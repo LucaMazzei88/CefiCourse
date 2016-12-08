@@ -1,0 +1,6 @@
+Mario;Rossi;13/08/1966;M
+Maria;dgssd;12/04/1965;F
+Giovanna;fsdsd;08/06/1988;F
+Luigi;hasdfo;06/12/1991;M
+Filippo;fdsa;06/10/1953;M
+Sara;hj;03/01/1955;F

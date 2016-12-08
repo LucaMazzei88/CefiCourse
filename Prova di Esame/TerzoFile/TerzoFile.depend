@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476864728 source:g:\prova di esame\terzofile\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<set>
+	<vector>
+

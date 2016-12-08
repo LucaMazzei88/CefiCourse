@@ -1,0 +1,9 @@
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\bin\Debug\OrdinaTextBox.exe.config
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\bin\Debug\OrdinaTextBox.exe
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\bin\Debug\OrdinaTextBox.pdb
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\obj\Debug\OrdinaTextBox.csprojResolveAssemblyReference.cache
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\obj\Debug\OrdinaTextBox.Form1.resources
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\obj\Debug\OrdinaTextBox.Properties.Resources.resources
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\obj\Debug\OrdinaTextBox.csproj.GenerateResource.Cache
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\obj\Debug\OrdinaTextBox.exe
+F:\Prova di Esame\OrdinaTextBox\OrdinaTextBox\obj\Debug\OrdinaTextBox.pdb

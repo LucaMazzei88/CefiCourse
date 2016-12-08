@@ -1,0 +1,10 @@
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\bin\Debug\OccorrenzeFile.exe.config
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\bin\Debug\OccorrenzeFile.exe
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\bin\Debug\OccorrenzeFile.pdb
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\obj\Debug\OccorrenzeFile.csprojResolveAssemblyReference.cache
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\obj\Debug\OccorrenzeFile.Form1.resources
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\obj\Debug\OccorrenzeFile.Properties.Resources.resources
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\obj\Debug\OccorrenzeFile.csproj.GenerateResource.Cache
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\obj\Debug\OccorrenzeFile.exe
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\obj\Debug\OccorrenzeFile.pdb
+F:\Prova di Esame\OccorrenzeFile\OccorrenzeFile\bin\Debug\numeri.txt

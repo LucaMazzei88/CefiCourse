@@ -1,0 +1,8 @@
+A001,Informatica,17
+A001,Matematica,26
+A002,Informatica,25
+A003,Fisica,27
+A003,Informatica,28
+A004,Fisica,24
+A005,Fisica,29
+A006,Matematica,30

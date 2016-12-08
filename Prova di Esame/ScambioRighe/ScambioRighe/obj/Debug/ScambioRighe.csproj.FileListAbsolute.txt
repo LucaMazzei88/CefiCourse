@@ -1,0 +1,9 @@
+F:\Prova di Esame\ScambioRighe\ScambioRighe\bin\Debug\ScambioRighe.exe.config
+F:\Prova di Esame\ScambioRighe\ScambioRighe\bin\Debug\ScambioRighe.exe
+F:\Prova di Esame\ScambioRighe\ScambioRighe\bin\Debug\ScambioRighe.pdb
+F:\Prova di Esame\ScambioRighe\ScambioRighe\obj\Debug\ScambioRighe.csprojResolveAssemblyReference.cache
+F:\Prova di Esame\ScambioRighe\ScambioRighe\obj\Debug\ScambioRighe.Form1.resources
+F:\Prova di Esame\ScambioRighe\ScambioRighe\obj\Debug\ScambioRighe.Properties.Resources.resources
+F:\Prova di Esame\ScambioRighe\ScambioRighe\obj\Debug\ScambioRighe.csproj.GenerateResource.Cache
+F:\Prova di Esame\ScambioRighe\ScambioRighe\obj\Debug\ScambioRighe.exe
+F:\Prova di Esame\ScambioRighe\ScambioRighe\obj\Debug\ScambioRighe.pdb

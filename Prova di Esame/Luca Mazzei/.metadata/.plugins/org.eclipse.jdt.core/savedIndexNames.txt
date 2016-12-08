@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\Cefi\Desktop\Luca Mazzei\.metadata\.plugins\org.eclipse.jdt.core
+1667102676.index

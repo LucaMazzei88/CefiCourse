@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;TassoDiCambio/Tasso di cambio 1&apos; to &apos;Tasso di cambio 1.txt&apos;" description="Rename resource &apos;Tasso di cambio 1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Tasso di cambio 1" name="Tasso di cambio 1.txt" stamp="1478360754345" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;TassoDiCambio/Tasso di cambio 2&apos; to &apos;Tasso di cambio 2.txt&apos;" description="Rename resource &apos;Tasso di cambio 2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Tasso di cambio 2" name="Tasso di cambio 2.txt" stamp="1478360772363" updateReferences="true"/>
+</session>

@@ -1,0 +1,78 @@
+package eseFacoltativo;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Lotto {
+	private static ArrayList<Integer> ruota=new ArrayList<>();
+
+	public static void main(String[] args) {
+		//dichiarazioni
+		int [] numeri=new int[3];
+		int indovinati;
+		String stampa;
+		Scanner sc=new Scanner(System.in);
+		try(BufferedWriter scrivi=new BufferedWriter(new FileWriter("output.txt"))) {
+			while(true){
+				//inizializzazioni
+				indovinati=0;
+				estrai();
+				stampa="";
+			/*	System.out.print("Numeri Estratti: ");
+				for(int ele:ruota){
+					System.out.print(ele+" ");
+				}
+				System.out.println();*/
+				System.out.println("Inserisci 3 numeri tra 1 e 90:");
+				for(int i=0;i<3;i++){
+					numeri[i]=sc.nextInt();
+				}
+				//controllo
+				for(int ele:numeri){
+					if(ruota.contains(ele)){
+						indovinati++;
+						continue;
+					}
+				}
+				if(indovinati==3){
+					System.out.println("Hai Vinto!!!");
+					scrivi.write("Hai Vinto!!!");
+					sc.close();
+					break;
+				}
+				else {
+					stampa+="Numeri inseriti: ";
+					for(int ele:numeri){
+						stampa+=ele+" ";
+					}
+					stampa+="\nNumeri Estratti: ";
+
+					for(int ele:ruota){
+						stampa+=ele+" ";
+					}
+					stampa+="\nIndovinati: "+indovinati;
+					System.out.println(stampa);
+					scrivi.write(stampa);
+				}
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+	private static void estrai(){
+		ruota.clear();
+		int temp;
+		for(int i=0;i<13;){
+			temp=(int)(Math.random()*90+1);
+			if(!ruota.contains(temp)){
+				ruota.add(temp);
+				i++;
+			}
+		}
+	}
+}

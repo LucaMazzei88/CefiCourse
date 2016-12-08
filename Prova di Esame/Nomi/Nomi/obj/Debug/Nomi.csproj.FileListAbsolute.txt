@@ -1,0 +1,9 @@
+G:\Prova di Esame\Nomi\Nomi\bin\Debug\Nomi.exe.config
+G:\Prova di Esame\Nomi\Nomi\bin\Debug\Nomi.exe
+G:\Prova di Esame\Nomi\Nomi\bin\Debug\Nomi.pdb
+G:\Prova di Esame\Nomi\Nomi\obj\Debug\Nomi.csprojResolveAssemblyReference.cache
+G:\Prova di Esame\Nomi\Nomi\obj\Debug\Nomi.Form1.resources
+G:\Prova di Esame\Nomi\Nomi\obj\Debug\Nomi.Properties.Resources.resources
+G:\Prova di Esame\Nomi\Nomi\obj\Debug\Nomi.csproj.GenerateResource.Cache
+G:\Prova di Esame\Nomi\Nomi\obj\Debug\Nomi.exe
+G:\Prova di Esame\Nomi\Nomi\obj\Debug\Nomi.pdb

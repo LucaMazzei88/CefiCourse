@@ -1,0 +1,4 @@
+Numero vocali nella riga 1 e': 5
+Numero vocali nella riga 2 e': 3
+Numero vocali nella riga 3 e': 4
+Numero vocali nella riga 4 e': 1

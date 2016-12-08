@@ -1,0 +1,9 @@
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\bin\Debug\SalvareDatiCliente.exe.config
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\bin\Debug\SalvareDatiCliente.exe
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\bin\Debug\SalvareDatiCliente.pdb
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\obj\Debug\SalvareDatiCliente.csprojResolveAssemblyReference.cache
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\obj\Debug\SalvareDatiCliente.Form1.resources
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\obj\Debug\SalvareDatiCliente.Properties.Resources.resources
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\obj\Debug\SalvareDatiCliente.csproj.GenerateResource.Cache
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\obj\Debug\SalvareDatiCliente.exe
+F:\Prova di Esame\SalvareDatiCliente\SalvareDatiCliente\obj\Debug\SalvareDatiCliente.pdb

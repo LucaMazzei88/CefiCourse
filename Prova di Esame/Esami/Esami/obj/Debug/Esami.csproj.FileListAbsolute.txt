@@ -1,0 +1,11 @@
+G:\Prova di Esame\Esami\Esami\bin\Debug\Esami.exe.config
+G:\Prova di Esame\Esami\Esami\bin\Debug\esami.txt
+G:\Prova di Esame\Esami\Esami\bin\Debug\studenti.txt
+G:\Prova di Esame\Esami\Esami\bin\Debug\Esami.exe
+G:\Prova di Esame\Esami\Esami\bin\Debug\Esami.pdb
+G:\Prova di Esame\Esami\Esami\obj\Debug\Esami.csprojResolveAssemblyReference.cache
+G:\Prova di Esame\Esami\Esami\obj\Debug\Esami.Form1.resources
+G:\Prova di Esame\Esami\Esami\obj\Debug\Esami.Properties.Resources.resources
+G:\Prova di Esame\Esami\Esami\obj\Debug\Esami.csproj.GenerateResource.Cache
+G:\Prova di Esame\Esami\Esami\obj\Debug\Esami.exe
+G:\Prova di Esame\Esami\Esami\obj\Debug\Esami.pdb

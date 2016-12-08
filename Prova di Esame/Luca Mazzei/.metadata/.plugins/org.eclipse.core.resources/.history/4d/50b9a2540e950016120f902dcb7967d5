@@ -1,0 +1,18 @@
+package eseFacoltativo;
+
+import java.util.ArrayList;
+
+public class Lotto {
+	private static ArrayList<Integer> ruota=new ArrayList<>();
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	private static void estrai(){
+		ruota.clear();
+		for(int i=0;i<13;i++){
+			ruota.add((int)(Math.random()*90+1));
+		}
+	}
+}

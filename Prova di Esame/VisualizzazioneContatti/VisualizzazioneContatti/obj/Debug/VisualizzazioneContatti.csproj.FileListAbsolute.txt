@@ -1,0 +1,10 @@
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\bin\Debug\VisualizzazioneContatti.exe.config
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\bin\Debug\dati.txt
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\bin\Debug\VisualizzazioneContatti.exe
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\bin\Debug\VisualizzazioneContatti.pdb
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\obj\Debug\VisualizzazioneContatti.csprojResolveAssemblyReference.cache
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\obj\Debug\VisualizzazioneContatti.Form1.resources
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\obj\Debug\VisualizzazioneContatti.Properties.Resources.resources
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\obj\Debug\VisualizzazioneContatti.csproj.GenerateResource.Cache
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\obj\Debug\VisualizzazioneContatti.exe
+G:\Prova di Esame\VisualizzazioneContatti\VisualizzazioneContatti\obj\Debug\VisualizzazioneContatti.pdb

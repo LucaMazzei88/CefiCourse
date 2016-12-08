@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477644342 source:g:\prova di esame\contapalindrome\main.cpp
+	<iostream>
+	<string.h>
+

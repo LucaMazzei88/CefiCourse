@@ -1,0 +1,10 @@
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\bin\Debug\EsercizioCriterio.exe.config
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\obj\Debug\EsercizioCriterio.csprojResolveAssemblyReference.cache
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\obj\Debug\EsercizioCriterio.Form1.resources
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\obj\Debug\EsercizioCriterio.Properties.Resources.resources
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\obj\Debug\EsercizioCriterio.csproj.GenerateResource.Cache
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\bin\Debug\numeri.txt
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\bin\Debug\EsercizioCriterio.exe
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\bin\Debug\EsercizioCriterio.pdb
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\obj\Debug\EsercizioCriterio.exe
+F:\Prova di Esame\EsercizioCriterio\EsercizioCriterio\obj\Debug\EsercizioCriterio.pdb
